@@ -8,3 +8,8 @@
 - [DataBrief](https://github.com/futechiot/STM32F401-Necleo-64/files/3921625/DB2196.pdf)
 - [User Manual](https://github.com/futechiot/STM32F401-Necleo-64/files/3921637/UM1724.pdf)
 - [Getting started](https://github.com/futechiot/STM32F401-Necleo-64/files/3921645/UM1727.pdf)
+
+### Software Developement Tools
+
+- [STM32CubeMx](https://www.st.com/en/development-tools/stm32cubemx.html)
+- [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
